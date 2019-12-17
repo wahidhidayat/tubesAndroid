@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "229444597576",
+    "firebase_url": "https://tubesandroid-32446.firebaseio.com",
+    "project_id": "tubesandroid-32446",
+    "storage_bucket": "tubesandroid-32446.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:229444597576:android:baf5ea0e2c15415998a57d",
+        "android_client_info": {
+          "package_name": "com.example.tubesandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "229444597576-bgvs77s6c0osdvs7o8sdn6ebu73iri2u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tubesandroid",
+            "certificate_hash": "383dd5059aa5b85cdb8881de4a5636e777cf4388"
+          }
+        },
+        {
+          "client_id": "229444597576-ph0j7vcn1h6lr0cv5ilqlkfbqjg9lbc9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzftm01I63ZWRPSWFhvz5SV_15qiVzv8I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "229444597576-ph0j7vcn1h6lr0cv5ilqlkfbqjg9lbc9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
